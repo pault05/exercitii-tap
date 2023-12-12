@@ -1,0 +1,54 @@
+﻿  banca.cpp
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\Header.h(11,22): error C2061: syntax error: identifier 'Client'
+  (compiling source file 'banca.cpp')
+  
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\Header.h(22,9): error C3646: 'clienti': unknown override specifier
+  (compiling source file 'banca.cpp')
+  
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\Header.h(22,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'banca.cpp')
+  
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\Header.h(25,50): error C2061: syntax error: identifier 'Client'
+  (compiling source file 'banca.cpp')
+  
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\Header.h(74,8): error C2548: 'Client::Client': missing default argument for parameter 5
+  (compiling source file 'banca.cpp')
+  
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\banca.cpp(37,8): error C2511: 'Banca::Banca(std::string,unsigned int,Client)': overloaded member function not found in 'Banca'
+  C:\Users\paul_\source\repos\tap lab2 ex2 banca\Header.h(17,7):
+  see declaration of 'Banca'
+  
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\banca.cpp(39,2): error C2671: 'Banca::{ctor}': static member functions do not have 'this' pointers
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\banca.cpp(40,2): error C2671: 'Banca::{ctor}': static member functions do not have 'this' pointers
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\banca.cpp(41,2): error C2671: 'Banca::{ctor}': static member functions do not have 'this' pointers
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\banca.cpp(48,8): error C2039: 'clienti': is not a member of 'Banca'
+  C:\Users\paul_\source\repos\tap lab2 ex2 banca\Header.h(17,7):
+  see declaration of 'Banca'
+  
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\banca.cpp(48,24): error C2039: 'clienti': is not a member of 'Banca'
+  C:\Users\paul_\source\repos\tap lab2 ex2 banca\Header.h(17,7):
+  see declaration of 'Banca'
+  
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\banca.cpp(131,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\banca.cpp(135,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\banca.cpp(140,19): error C2511: 'float Operatiuni::getSumaTotala(Client)': overloaded member function not found in 'Operatiuni'
+  C:\Users\paul_\source\repos\tap lab2 ex2 banca\Header.h(9,7):
+  see declaration of 'Operatiuni'
+  
+  main.cpp
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\Header.h(11,22): error C2061: syntax error: identifier 'Client'
+  (compiling source file 'main.cpp')
+  
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\Header.h(22,9): error C3646: 'clienti': unknown override specifier
+  (compiling source file 'main.cpp')
+  
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\Header.h(22,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\Header.h(25,50): error C2061: syntax error: identifier 'Client'
+  (compiling source file 'main.cpp')
+  
+C:\Users\paul_\source\repos\tap lab2 ex2 banca\Header.h(74,8): error C2548: 'Client::Client': missing default argument for parameter 5
+  (compiling source file 'main.cpp')
+  
+  Generating Code...

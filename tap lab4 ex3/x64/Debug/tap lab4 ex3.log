@@ -1,0 +1,46 @@
+﻿  main.cpp
+  matrice.cpp
+C:\Users\paul_\source\repos\tap lab4 ex3\Header.h(31,9): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'main.cpp')
+  
+C:\Users\paul_\source\repos\tap lab4 ex3\Header.h(31,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\paul_\source\repos\tap lab4 ex3\Header.h(31,34): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Users\paul_\source\repos\tap lab4 ex3\Header.h(32,9): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'main.cpp')
+  
+C:\Users\paul_\source\repos\tap lab4 ex3\Header.h(32,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\paul_\source\repos\tap lab4 ex3\Header.h(32,34): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Users\paul_\source\repos\tap lab4 ex3\Header.h(31,9): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'matrice.cpp')
+  
+C:\Users\paul_\source\repos\tap lab4 ex3\Header.h(31,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'matrice.cpp')
+  
+C:\Users\paul_\source\repos\tap lab4 ex3\Header.h(31,34): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'matrice.cpp')
+  
+C:\Users\paul_\source\repos\tap lab4 ex3\Header.h(32,9): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'matrice.cpp')
+  
+C:\Users\paul_\source\repos\tap lab4 ex3\Header.h(32,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'matrice.cpp')
+  
+C:\Users\paul_\source\repos\tap lab4 ex3\Header.h(32,34): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'matrice.cpp')
+  
+C:\Users\paul_\source\repos\tap lab4 ex3\matrice.cpp(189,19): error C2039: '<<': is not a member of 'Matrice'
+  Generating Code...
+  C:\Users\paul_\source\repos\tap lab4 ex3\Header.h(5,7):
+  see declaration of 'Matrice'
+  
+C:\Users\paul_\source\repos\tap lab4 ex3\matrice.cpp(191,22): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\paul_\source\repos\tap lab4 ex3\matrice.cpp(193,23): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\paul_\source\repos\tap lab4 ex3\matrice.cpp(195,10): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers

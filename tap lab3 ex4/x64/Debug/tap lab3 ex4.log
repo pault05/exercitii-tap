@@ -1,0 +1,14 @@
+﻿  Actor.cpp
+  Film.cpp
+  main.cpp
+  Generating Code...
+C:\Users\paul_\source\repos\tap lab3 ex4\main.cpp(9,8): error C2665: 'Film::Film': no overloaded function could convert all the argument types
+  C:\Users\paul_\source\repos\tap lab3 ex4\Film.h(17,2):
+  could be 'Film::Film(int,int,Actor [])'
+  	C:\Users\paul_\source\repos\tap lab3 ex4\main.cpp(9,8):
+  	'Film::Film(int,int,Actor [])': cannot convert argument 3 from 'Actor' to 'Actor []'
+  		C:\Users\paul_\source\repos\tap lab3 ex4\main.cpp(9,25):
+  		No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  C:\Users\paul_\source\repos\tap lab3 ex4\main.cpp(9,8):
+  while trying to match the argument list '(int, int, Actor)'
+  

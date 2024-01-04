@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\paul_\source\repos\tap lab5 ex3\main.cpp(10,40): warning C4101: 'e': unreferenced local variable
+C:\Users\paul_\source\repos\tap lab5 ex3\main.cpp(20,41): warning C4101: 'e': unreferenced local variable
+  tap lab5 ex3.vcxproj -> C:\Users\paul_\source\repos\tap lab5 ex3\x64\Debug\tap lab5 ex3.exe

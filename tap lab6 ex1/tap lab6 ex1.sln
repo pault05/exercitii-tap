@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tap lab6 ex1", "tap lab6 ex1.vcxproj", "{E48275DD-A3B4-4DCF-A029-E34A6E97F346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E48275DD-A3B4-4DCF-A029-E34A6E97F346}.Debug|x64.ActiveCfg = Debug|x64
+		{E48275DD-A3B4-4DCF-A029-E34A6E97F346}.Debug|x64.Build.0 = Debug|x64
+		{E48275DD-A3B4-4DCF-A029-E34A6E97F346}.Debug|x86.ActiveCfg = Debug|Win32
+		{E48275DD-A3B4-4DCF-A029-E34A6E97F346}.Debug|x86.Build.0 = Debug|Win32
+		{E48275DD-A3B4-4DCF-A029-E34A6E97F346}.Release|x64.ActiveCfg = Release|x64
+		{E48275DD-A3B4-4DCF-A029-E34A6E97F346}.Release|x64.Build.0 = Release|x64
+		{E48275DD-A3B4-4DCF-A029-E34A6E97F346}.Release|x86.ActiveCfg = Release|Win32
+		{E48275DD-A3B4-4DCF-A029-E34A6E97F346}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBAB2E0E-B1E7-4091-8E5C-1A18AD54E961}
+	EndGlobalSection
+EndGlobal
